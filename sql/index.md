@@ -1,6 +1,6 @@
 **Voltar à [🏠 Home](../)**
 
-# Projetos de SQL
+# 📊 Projetos de SQL
 
 Esta seção contém projetos SQL aplicados a análise de dados e otimização de consultas.
 
