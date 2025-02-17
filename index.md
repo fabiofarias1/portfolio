@@ -1,4 +1,4 @@
-# 📊 Portfólio de Fabio Borges
+# 📊 Portfólio de Fabio Farias
 
 Bem-vindo ao meu portfólio de dados! Aqui você encontrará projetos e análises utilizando:
 
