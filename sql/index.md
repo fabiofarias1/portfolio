@@ -3,7 +3,7 @@
 Esta seção contém projetos SQL aplicados a análise de dados e otimização de consultas.
 
 **Repositório Completo no GitHub:**  
-[SQL - Portfólio de Consultas e Análises](https://github.com/fabiofarias1/portfolio-sqll)
+[SQL - Portfólio de Consultas e Análises](https://github.com/fabiofarias1/portfolio-sql)
 
 ## Projetos Destacados
 - [Análise de Ativos e Ordens de Serviço](https://github.com/fabiofarias1/portfolio-sql/blob/main/exercises/exercise_03/exercise_03.md)
